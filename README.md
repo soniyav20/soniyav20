@@ -8,7 +8,7 @@
   
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SoniyaVijay-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/soniya-v-17223127a)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SoniyaVijay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soniya-v-17223127a/)
   [![Upwork Badge](https://img.shields.io/badge/-SoniyaV-darkgreen?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016766abc24bb16f60)
   
 
