@@ -16,7 +16,6 @@
 - 🌱 Eager to collaborate on innovative mobile app projects. Let's learn, build, and create together!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SoniyaVijay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soniya-v-17223127a/)
-  [![Upwork Badge](https://img.shields.io/badge/-SoniyaV-darkgreen?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016766abc24bb16f60)
   
 
 - Alternate Github Account: [![Github Badge](https://img.shields.io/badge/-soniyanw-grey?style=flat&logo=GitHub&logoColor=white)](https://github.com/soniyanw)
