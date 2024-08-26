@@ -4,6 +4,7 @@ Hi there, I'm Soniya Vijay, a Flutter Developer on a journey of curiosity and le
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soniyavijay) 
+
 [My Portfolio](https://soniyav20.github.io/soniyavijaymanohar/)
 
 # 💻 Tech Stack:
